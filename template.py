@@ -21,7 +21,8 @@ list_of_files = [
      "dvc.yaml",
      "requirement.txt",
      "setup.py",
-     "research/trials.ipynb"
+     "research/trials.ipynb",
+     "templates/indexd.html"
      
 ]
 
